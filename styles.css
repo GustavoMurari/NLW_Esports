@@ -8,7 +8,7 @@ ul {
  list-style: none;
 }
 body {
-    background-image: url(./assets/bg.jpg);
+    background-image: url(https://static-cdn.jtvnw.net/jtv_user_pictures/9b9e133c-5fd8-4f18-9766-8f59b197eb1c-profile_banner-480.jpeg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -67,6 +67,7 @@ section {
 }
 
 section div {
+    
     background-color: #2A2634;
     padding: 32px;
     padding-top: 24px;
